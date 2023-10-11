@@ -1,4 +1,4 @@
 github diff issue
 ===
 
-there's an issue with the diff
+showing issue with github diffs
